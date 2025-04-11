@@ -3,3 +3,4 @@ function login(username, password) {
   return { success: true, token: 'dummy-token' };
 }
 module.exports = { login };
+// TODO: Améliorer cette fonction
